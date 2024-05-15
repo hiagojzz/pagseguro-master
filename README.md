@@ -1,7 +1,5 @@
 <p align="center"><img src="https://stc.pagseguro.uol.com.br/pagseguro/i/logos/logo_pagseguro200x41.png"></p>
 
-Visite a [Wiki](https://github.com/artistas/laravel-pagseguro/wiki) para verificar os detalhes de como utilizar este pacote.
-
 Qualquer problema, dúvida ou sugestão sinta-se livre para abrir uma issue.
 
 ```php
